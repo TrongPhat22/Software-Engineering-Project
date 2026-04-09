@@ -19,4 +19,3 @@
 ###  Tools Used
 * **Draw.io**: For creating diagrams and UI wireframes.
 * **GitHub**: For version control and team collaboration.
-* **Microsoft Word**: For documentation.
