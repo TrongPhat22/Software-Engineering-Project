@@ -1,21 +1,22 @@
 # Software-Engineering-Project
 ## Mini E-commerce Management System
-**Subject project: Software Engineering - Group 07**
+**Subject Project: Software Engineering - Group 07**
 
-### Member List and Assignment (Stage 1 & 2)
-| STT | Họ và Tên | Vai trò | Nhiệm vụ chính |
+### 👥 Team Members and Responsibilities
+| No | Name | Role | Primary Tasks |
 | :--- | :--- | :--- | :--- |
-| 1 | Bùi Quốc Phú | Member 1 | Viết đặc tả yêu cầu FR & NFR. |
-| 2 | Trần Anh Đức | Member 2 | Thiết kế sơ đồ Use Case. |
-| 3 | Võ Quang Nhân | Member 3 | Thiết kế sơ đồ luồng dữ liệu (DFD). |
-| 4 | Nguyễn Quốc Đăng Khoa | Member 4 | Thiết kế sơ đồ lớp (Class) và Database. |
-| 5 | **Lê Trọng Phát** | **Leader / M5** | Thiết kế UI Wireframe, Quản trị GitHub. |
+| 1 | Bui Quoc Phu | Member 1 | Functional & Non-Functional Requirements Specification. |
+| 2 | Tran Anh Duc | Member 2 | Use Case Diagram Design. |
+| 3 | Vo Quang Nhan | Member 3 | Data Flow Diagram (DFD) Design. |
+| 4 | Nguyen Quoc Dang Khoa | Member 4 | Class Diagram and Database Schema Design. |
+| 5 | **Le Trong Phat** | **Leader / M5** | UI Wireframe Design and GitHub Management. |
 
-### The directory structure includes:
-* **`/doc`**: Contains a Word file reporting system specifications.
-* **`/diagrams`**: Chứa các sơ đồ phân tích (Use Case, DFD, Class).
-* **`/ui`**: Chứa bản vẽ khung xương giao diện (Wireframes).
+### 📁 Directory Structure
+* **`/doc`**: Contains the system requirement specification and project reports.
+* **`/diagrams`**: Includes system analysis diagrams (Use Case, DFD, Class).
+* **`/ui`**: Stores the grayscale user interface wireframes.
 
-### Tools used:
-* **Draw.io**: Draw diagrams and design interfaces.
-* **GitHub**: Stores team documents.
+### 🛠️ Tools Used
+* **Draw.io**: For creating diagrams and UI wireframes.
+* **GitHub**: For version control and team collaboration.
+* **Microsoft Word**: For documentation.
