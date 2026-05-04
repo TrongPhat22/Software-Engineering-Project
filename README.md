@@ -34,11 +34,6 @@ GROUP 07 - TOOL USAGE & TASK ASSIGNMENT
 - Tran Anh Duc: Use Case Diagram Design.
 - Vo Quang Nhân: Data Flow Diagram (DFD).
 - Nguyen Quoc Dang Khoa: Class Diagram, DB Schema, Lead Backend Dev.
-## Tools used
-*   **Draw.io**: A powerful tool used for designing system diagrams (Use Case, DFD, Class) and UI wireframes
-*   **GitHub**:Used as the primary version control system for source code management and team collaboration.
-*   **Java JDK 17**: The core programming language and runtime environment used to develop the system logic.
-*   **Docker**: Utilized for containerization to ensure consistent deployment and execution across different environments.
 
 ##Instructions for running the program
 1.Open terminal at the root of the directory.
