@@ -19,3 +19,28 @@
 ###  Tools Used
 * **Draw.io**: For creating diagrams and UI wireframes.
 * **GitHub**: For version control and team collaboration.
+GROUP 07 - TOOL USAGE & TASK ASSIGNMENT
+
+1. Tools Used:
+- Modeling: Draw.io (Diagrams and UI Wireframes).
+- Version Control: GitHub (Repository management).
+- IDE: Visual Studio Code.
+- Language: Java JDK 17.
+- Containerization: Docker.
+
+2. Assignment Matrix:
+- Le Trong Phat: Project Lead, UI Wireframe, GitHub Admin, Dockerfile.
+- Bui Quoc Phu: SRS Documentation (Functional/Non-functional), Testing.
+- Tran Anh Duc: Use Case Diagram Design.
+- Vo Quang Nhân: Data Flow Diagram (DFD).
+- Nguyen Quoc Dang Khoa: Class Diagram, DB Schema, Lead Backend Dev.
+## Công cụ được sử dụng
+*   **Draw.io**: A powerful tool used for designing system diagrams (Use Case, DFD, Class) and UI wireframes
+*   **GitHub**:Used as the primary version control system for source code management and team collaboration.
+*   **Java JDK 17**: The core programming language and runtime environment used to develop the system logic.
+*   **Docker**: Utilized for containerization to ensure consistent deployment and execution across different environments.
+
+## Hướng dẫn chạy chương trình
+1.Open terminal at the root of the directory.
+2. Translation: `javac src/*.java`
+3. Run: `java -cp src Main`
